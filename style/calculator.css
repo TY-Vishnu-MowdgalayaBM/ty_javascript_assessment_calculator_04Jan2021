@@ -1,0 +1,86 @@
+.title {
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 210px;
+    color: #a4a4a4;
+    background-color: black;
+    border: solid black 1px;
+    font-size: large;
+    font-weight: 700;
+}
+
+input[type="button"] {
+    border-radius: 50px;
+    background-color: black;
+    color: #f4d6a9;
+    border-color: #a4a4a4;
+    width: 80%;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+input[type="number"] {
+    border-radius: 10px;
+    text-align: right;
+    background-color: white;
+    border-color: black;
+    width: 100%;
+    height: 80px;
+    font-size: 40px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.table-prop {
+    border-radius: 20px;
+    margin: 0px;
+}
+
+.new-prop {
+    background-color: #ef9228;
+    width: 100%;
+}
+
+#clear {
+    background-color: #ef9228;
+    width: 100%;
+    height: 80px;
+    padding-top: unset;
+}
+
+#add {
+    background-color: #ef9228;
+    width: 100%;
+    height: 80px;
+    padding-top: unset;
+}
+
+#sub {
+    background-color: #ef9228;
+    width: 100%;
+    height: 80px;
+    padding-top: unset;
+}
+
+#mul {
+    background-color: #ef9228;
+    width: 100%;
+    height: 80px;
+}
+
+#div {
+    background-color: #ef9228;
+    width: 100%;
+    height: 80px;
+    padding-top: unset;
+}
+
+#equal {
+    background-color: #a5a5a5;
+    color: black;
+}
